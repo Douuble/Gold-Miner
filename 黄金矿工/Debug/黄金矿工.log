@@ -1,0 +1,28 @@
+﻿  源.cpp
+C:\Users\Double\OneDrive\BJUT\EasyX\黄金矿工 19041106 杨瑶\黄金矿工\源.cpp(7,20): warning C4081: 应输入“)”；找到“字符串”
+C:\Users\Double\OneDrive\BJUT\EasyX\黄金矿工 19041106 杨瑶\黄金矿工\源.cpp(95,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Double\OneDrive\BJUT\EasyX\黄金矿工 19041106 杨瑶\黄金矿工\源.cpp(101,9): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Double\OneDrive\BJUT\EasyX\黄金矿工 19041106 杨瑶\黄金矿工\源.cpp(166,6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Double\OneDrive\BJUT\EasyX\黄金矿工 19041106 杨瑶\黄金矿工\源.cpp(172,6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Double\OneDrive\BJUT\EasyX\黄金矿工 19041106 杨瑶\黄金矿工\源.cpp(145,7): warning C4101: “ch”: 未引用的局部变量
+C:\Users\Double\OneDrive\BJUT\EasyX\黄金矿工 19041106 杨瑶\黄金矿工\源.cpp(227,6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Double\OneDrive\BJUT\EasyX\黄金矿工 19041106 杨瑶\黄金矿工\源.cpp(234,6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Double\OneDrive\BJUT\EasyX\黄金矿工 19041106 杨瑶\黄金矿工\源.cpp(428,12): warning C4101: “s”: 未引用的局部变量
+C:\Users\Double\OneDrive\BJUT\EasyX\黄金矿工 19041106 杨瑶\黄金矿工\源.cpp(483,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Double\OneDrive\BJUT\EasyX\黄金矿工 19041106 杨瑶\黄金矿工\源.cpp(484,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Double\OneDrive\BJUT\EasyX\黄金矿工 19041106 杨瑶\黄金矿工\源.cpp(491,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Double\OneDrive\BJUT\EasyX\黄金矿工 19041106 杨瑶\黄金矿工\源.cpp(492,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Double\OneDrive\BJUT\EasyX\黄金矿工 19041106 杨瑶\黄金矿工\源.cpp(499,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Double\OneDrive\BJUT\EasyX\黄金矿工 19041106 杨瑶\黄金矿工\源.cpp(500,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Double\OneDrive\BJUT\EasyX\黄金矿工 19041106 杨瑶\黄金矿工\源.cpp(508,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Double\OneDrive\BJUT\EasyX\黄金矿工 19041106 杨瑶\黄金矿工\源.cpp(509,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Double\OneDrive\BJUT\EasyX\黄金矿工 19041106 杨瑶\黄金矿工\源.cpp(521,16): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Double\OneDrive\BJUT\EasyX\黄金矿工 19041106 杨瑶\黄金矿工\源.cpp(522,16): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Double\OneDrive\BJUT\EasyX\黄金矿工 19041106 杨瑶\黄金矿工\源.cpp(525,21): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Double\OneDrive\BJUT\EasyX\黄金矿工 19041106 杨瑶\黄金矿工\源.cpp(526,21): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Double\OneDrive\BJUT\EasyX\黄金矿工 19041106 杨瑶\黄金矿工\源.cpp(567,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Double\OneDrive\BJUT\EasyX\黄金矿工 19041106 杨瑶\黄金矿工\源.cpp(568,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Double\OneDrive\BJUT\EasyX\黄金矿工 19041106 杨瑶\黄金矿工\源.cpp(617,20): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Double\OneDrive\BJUT\EasyX\黄金矿工 19041106 杨瑶\黄金矿工\源.cpp(618,20): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Double\OneDrive\BJUT\EasyX\黄金矿工 19041106 杨瑶\黄金矿工\源.cpp(682,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  黄金矿工.vcxproj -> C:\Users\Double\OneDrive\BJUT\EasyX\黄金矿工 19041106 杨瑶\Debug\黄金矿工.exe
